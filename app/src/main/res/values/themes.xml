@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.TelaDeLogin" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.TelaDeLogin" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#295073</item>
         <item name="colorPrimaryVariant">#BFCDD9</item>

@@ -4,4 +4,8 @@
     <string name="cadastrar">Cadastrar</string>
     <string name="entrar">Entrar</string>
     <string name="senha">Senha</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="lista_2">Lista 2</string>
+    <string name="sair">Sair</string>
+    <string name="lista_1">Lista 1</string>
 </resources>
